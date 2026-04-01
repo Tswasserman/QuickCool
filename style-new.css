@@ -312,8 +312,8 @@ section {
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    background: linear-gradient(135deg, rgba(0, 102, 255, 0.7), rgba(0, 102, 255, 0.7)), url('./main\ background.jpeg') center/cover no-repeat;
-    margin-top: 60px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.822), rgba(255, 255, 255, 0.397)), url('./main\ background.jpeg') center/cover no-repeat;
+    
 }
 
 .hero-content {
